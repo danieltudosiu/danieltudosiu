@@ -1,7 +1,7 @@
 # :hugs: Buna :heart: I am Dan Tudosiu :hugs:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=PTudosiu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petru-daniel-tudosiu/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)](https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&label=Google_Scholar&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)](https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)
 
 An inquisitve mind that's passionate about aplications of artificial intelligence in medical imaging during the day, TTRPG and boardgames during the evening and photography during the night.
 
