@@ -2,8 +2,8 @@
 
 ### Research Scientist @ [AI Theory Group, Noah's Ark](http://dev3.noahlab.com.hk/index.html), Huawei, London, United Kingdom 
 ***We are expanding our team***
-* ***[Two full-time positions - Diffusion modelling + 3D imaging / LLMs / Multimodal](https://github.com/parisots/parisots.github.io/blob/master/content/PDFs/AI%20theory%20-%20RS%20-%202023%20JD.pdf)***
-* ***[Three intern positions - Familiarity with  diffusion modelling and attention mechanisms](https://github.com/parisots/parisots.github.io/blob/master/content/PDFs/AI%20theory%20-%20Intern%20-%202023%20JD.pdf)***
+* ***[Two full-time positions - Diffusion modelling + 3D imaging / LLMs / Multimodal](https://huaweiuk.teamtailor.com/jobs/2989989-research-scientist-ai-theory)***
+* ***[Three intern positions - Familiarity with  diffusion modelling and attention mechanisms](https://huaweiuk.teamtailor.com/jobs/2090786-research-intern-machine-learning)***
 
 #### What I am working on
 * Controllable and Editable Generativel Modelling
