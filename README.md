@@ -1,13 +1,20 @@
-## :hugs: Buna :heart: I am Dan Tudosiu :hugs: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=DTudosiu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petru-daniel-tudosiu/) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&label=Google_Scholar&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)](https://scholar.google.com/citations?user=sv39zkwAAAAJ&hl=en)
+## :hugs: Buna :heart: I am Dan Tudosiu :hugs: 
 
-### Research Scientist @ [Multimodal Generation, AI Theory Group, Noah's Ark](http://dev3.noahlab.com.hk/index.html), Huawei, London, United Kingdom 
+### Links of interest
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=sv39zkwAAAAJ&view_op=list_works&sortby=pubdate)
+* [LinkedIn](https://www.linkedin.com/in/petru-daniel-tudosiu/)
 
-#### What I am working on
+### What am I currently up to
+Stay tuned ;) 
+
+  
+### Where I worked <3 
+
+#### Research Scientist @ [Multimodal Generation, AI Theory Group, Noah's Ark](http://dev3.noahlab.com.hk/index.html), Huawei, London, United Kingdom 
+Researched Text-to-Image Generative Modelling, specifically:
 * Multi-layer Image and Video Decomposition and Generation
 * Controllable and Editable Generativel Modelling
 * Interleaved Text and Image Generation 
-  
-### Where I worked <3 
 
 #### Research Assisstant @ [Amigo Lab](https://amigos.ai/), King's College London, London, United Kingdom
 Researched One/Few-Shot(s) Active Learning Segmentation pipelines and how at-scale training can help their generalisation. 
@@ -22,5 +29,3 @@ Developing state-of-the-art generative models of the human brain and applying th
 Working for a greener future by:
 * Developing Remote-Sensing Deep Learning models aimed at quantifying current state and future potential of cities' green roof.
 * Creating insightful business inteligence for local authorities to decrease their carbon footprint.
-
-
