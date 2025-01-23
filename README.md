@@ -1,20 +1,24 @@
 ## :hugs: Buna :heart: I am Dan Tudosiu :hugs: 
 
 ### Links of interest
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=sv39zkwAAAAJ&view_op=list_works&sortby=pubdate)
 * [LinkedIn](https://www.linkedin.com/in/petru-daniel-tudosiu/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=sv39zkwAAAAJ&view_op=list_works&sortby=pubdate)
+* [DPBP](https://dblp.org/pid/258/4838.html)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Petru-Daniel-Tudosiu/1492002647)
+* [ORCID](https://orcid.org/0000-0001-6435-5079)
 
 ### What am I currently up to
-Stay tuned ;) 
-
+#### Senior Research Scientist @ [Leonardo AI](https://leonardo.ai/), Canva, London, United Kingdom 
+Researched Text-to-Image Generative Modelling, specifically:
+* Multi-layer Image Generation
   
 ### Where I worked <3 
 
 #### Research Scientist @ [Multimodal Generation, AI Theory Group, Noah's Ark](http://dev3.noahlab.com.hk/index.html), Huawei, London, United Kingdom 
 Researched Text-to-Image Generative Modelling, specifically:
-* Multi-layer Image and Video Decomposition and Generation
-* Controllable and Editable Generativel Modelling
-* Interleaved Text and Image Generation 
+* Multi-layer Image Decomposition and Generation
+* Video Understanding
+* PEFT for LLMs and T2I
 
 #### Research Assisstant @ [Amigo Lab](https://amigos.ai/), King's College London, London, United Kingdom
 Researched One/Few-Shot(s) Active Learning Segmentation pipelines and how at-scale training can help their generalisation. 
