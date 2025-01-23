@@ -10,7 +10,7 @@
 ### What am I currently up to
 #### Senior Research Scientist @ [Leonardo AI](https://leonardo.ai/), Canva, London, United Kingdom 
 Researched Text-to-Image Generative Modelling, specifically:
-* Multi-layer Image Generation
+* Multi-layer Image Decomposition and Generation
   
 ### Where I worked <3 
 
